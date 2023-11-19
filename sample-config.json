@@ -1,0 +1,10 @@
+{
+    "nsec": "nsec...",
+    "relays": [
+        "nostr.pleb.network",
+        "nostr-pub.wellorder.net",
+        "nostr.mom",
+        "relay.nostr.bg"
+    ]
+}
+

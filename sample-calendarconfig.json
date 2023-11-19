@@ -1,0 +1,20 @@
+{
+    "frequency.comment": "0 to run once and exit. Other numbers to sleep that long before building again",
+    "frequency": 0,
+    "searchlist.comment": "Use kind 31924 to include ALL events of the referenced calendar.",
+    "searchlist": [
+      {"kind": 31924, "author": "90cca4db5ad5a9359d88ed8a6710df461d73a7e51b02e633016aefc05b130ac6", "d": "a3e6a7c8"},
+      {"kind": 31923, "author": "21b419102da8fc0ba90484aec934bf55b7abcf75eedb39124e8d75e491f41a5e", "phrase": "bitcoin"},
+      {"kind": 31923, "author": "1eb5d2c90ae0b1c07105d29c3861f5c36c0245aee8b09196339e6c25ee9e8d5f", "phrase": "bitcoin"},
+      {"kind": 31923, "author": "a136247d8caf7e30bf403d32006faeca0c9d1cec7a16075e4142c2fed6cade60", "phrase": "bitcoin"}
+    ],
+    "name": "My Calendar",
+    "content": "A description for this calendar",
+    "description": "A description for this calendar",
+    "uuid.comment": "Leave the following field empty. It will get populated",
+    "uuid": "",
+    "image.comment": "You can include a url to an image for your calendar",
+    "image": "https://thewealthmastery.io/wp-content/uploads/2023/02/what-is-nostr-768x402.jpg"
+}
+
+  
